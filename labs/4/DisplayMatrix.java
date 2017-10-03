@@ -2,7 +2,7 @@ public class DisplayMatrix {
 
     public static void main(String[] args) {
 
-        printMatrix(3);
+        printMatrix(3); // JA: You were supposed to read the size from the user
     }
 
     public static void printMatrix(int n) {
