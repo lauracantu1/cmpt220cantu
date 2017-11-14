@@ -26,7 +26,7 @@ public class prob12_13
 		int lines=0;
 
 		//input
-		try(Scanner reader = new Scanner(System.in);) // JA: This need to read from the input file, not standard input
+		try(Scanner reader = new Scanner(System.in);) 
 		{
 			while(reader.hasNext())
 			{
